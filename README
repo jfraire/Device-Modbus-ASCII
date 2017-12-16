@@ -21,6 +21,12 @@ This module requires these other modules and libraries:
     * Device::Modbus
     * Role::Tiny
     * Device::SerialPort
+    
+THANKS
+
+This distribution came to life thanks to Stefan Parvu from Kronometrix.
+It was his motivation, dedication and support that made this module
+possible.
 
 COPYRIGHT AND LICENCE
 

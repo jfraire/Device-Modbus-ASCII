@@ -77,7 +77,11 @@ Device::Modbus::ASCII - Modbus ASCII communications for Perl
 
 =head1 DESCRIPTION
 
-This distribution implements the Modbus ASCII protocol on top of L<Device::Modbus>. It includes only a client, L<Device::Modbus::ASCII::Client>.
+This distribution implements the Modbus ASCII protocol on top of L<Device::Modbus>. It includes only a client, L<Device::Modbus::ASCII::Client>, which is based on L<Device::Modbus::Client>. See this last module for the core of the documentation.
+
+=head1 THANKS
+
+This distribution came to life thanks to Stefan Parvu from Kronometrix. It was his motivation, dedication and support that made this module possible.
 
 =head1 SEE ALSO
 
